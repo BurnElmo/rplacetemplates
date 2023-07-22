@@ -3,7 +3,7 @@
   "notifications": "",
   "templates": [
     {
-      "name": "TransPlace Starter",
+      "name": "placehu",
       "sources": [
         "https://raw.githubusercontent.com/BurnElmo/rplacetemplates/main/nyuszi.png"
       ],
